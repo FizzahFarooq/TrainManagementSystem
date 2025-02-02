@@ -30,54 +30,54 @@ The project utilizes advanced data structures to ensure efficient and reliable o
 
 ## Features:
 
-### Train Scheduling
+### 1. Train Scheduling
 
 Prioritize and manage train schedules using a Heap Tree (Priority Queue).
 
-### Passenger Information Management
+### 2. Passenger Information Management
 
 Store and manage passenger details using a Singly Linked List.
 
-### Train Routes Management
+### 3. Train Routes Management
 
 Optimize and manage train routes using a Graph (Adjacency Matrix).
 
-### Ticket Reservation System
+### 4. Ticket Reservation System
 
 Handle ticket bookings using a Queue (first-come, first-served).
 
-### Seat Allocation
+### 5. Seat Allocation
 
 Allocate seats efficiently using a Circular Linked List.
 
-### Train Delays Tracking
+### 6. Train Delays Tracking
 
 Track and manage train delays using an AVL Tree.
 
-### Waitlist Management 
+### 7. Waitlist Management 
 
 Manage waitlisted passengers using a Queue.
 
-### Analytics and Reporting
+### 8. Analytics and Reporting
 
 Generate reports and analytics using a Binary Search Tree (BST).
 
-### Train Maintenance Records
+### 9. Train Maintenance Records
 
 Maintain train maintenance records using a Doubly Linked List.
 
-### Revenue Management
+### 10. Revenue Management
 
 Manage revenue data using an AVL Tree.
 
-### Admin Login and Authentication
+### 11. Admin Login and Authentication
 
 Secure admin login using a Stack.
 
-### Route Optimization
+### 12. Route Optimization
 
 Optimize train routes using a Graph with Dijkstra’s Algorithm.
 
-### Main Menu
+### 13. Main Menu
 
 Provides a user-friendly interface for passengers and admins to interact with the system.
