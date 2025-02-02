@@ -28,6 +28,30 @@ The project utilizes advanced data structures to ensure efficient and reliable o
 
 10.Graph with Dijkstra’s Algorithm
 
+## How to Compile and Run the Project
+
+This project is developed using Code::Blocks. Follow the steps below to compile and run it:
+
+### Prerequisites:
+
+Install Code::Blocks IDE with the MinGW Compiler.
+
+Download Code::Blocks.
+
+Simply download the ZIP file and extract it.
+
+Open the Project:
+
+Launch Code::Blocks.
+
+Go to File → Open.
+
+Select the .cbp file (e.g., TrainManagementSystem.cbp).
+
+Click on the Build button (gear icon) or press F9 to compile.
+
+After successful compilation, click on the Run button (green play icon) or press Ctrl + F10.
+
 ## Features:
 
 ### 1. Train Scheduling
