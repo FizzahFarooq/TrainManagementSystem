@@ -3,7 +3,7 @@
 Managing railway operations can be complex, but this project simplifies it with an intuitive structure and fast algorithms. Whether it's handling peak-hour schedules, processing passenger data, or ensuring efficient ticket reservations, TMS has got it covered.Built with advanced data structures, this project focuses on delivering high performance, fast processing, and an organized workflow, making train management more streamlined than ever.
 
 ## Language Used:
-C++: The project is implemented in C++, leveraging its object-oriented programming (OOP) features and efficient memory management capabilities. C++ is ideal for this project due to its performance and flexibility in handling complex data structures.
+The project is implemented in C++, leveraging its object-oriented programming (OOP) features and efficient memory management capabilities. C++ is ideal for this project due to its performance and flexibility in handling complex data structures.
 
 ## Data Structures Used:
 The project utilizes advanced data structures to ensure efficient and reliable operations. Below is a list of data structures used in the system:
